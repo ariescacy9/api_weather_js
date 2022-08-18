@@ -1,0 +1,23 @@
+{
+"coord":{"lon":145.7667,"lat":-16.9167},
+"weather":[{"id":802,"main":"Clouds","description":"nubes dispersas","icon":"03d"}],
+"base":"stations",
+"main":{"temp":25.8,
+        "feels_like":25.77,
+        "temp_min":25.59,
+        "temp_max":25.97,
+        "pressure":1017,
+        "humidity":51},
+"visibility":10000,
+"wind":{"speed":7.2,"deg":130},
+"clouds":{"all":40},
+"dt":1660787658,
+"sys":{"type":1,"id":9490,
+        "country":"AU",
+        "sunrise":1660768435,
+        "sunset":1660810093},
+"timezone":36000,
+"id":2172797,
+"name":"Cairns",
+"cod":200
+}
